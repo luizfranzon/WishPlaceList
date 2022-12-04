@@ -1,0 +1,3 @@
+- [ ] Adicionar um novo lugar (Nome do lugar, Local, Preço, O que vendem, Notes, )
+- [ ] Listar os lugares adicionados
+- [ ] Remover lugares/Marcar como visitados
